@@ -67,7 +67,7 @@ Download PakalDigitalSolutions with github
 
 Web page demo
 
-http://localhost/rn-montacargas-app/
+http://localhost/dajo-secure-hub/
 
 
 ![Logo](https://locallity-logos.s3.us-west-1.amazonaws.com/Screenshot_10.png)
